@@ -94,6 +94,42 @@
             <div class="col s12 m6">
                 <div class="card">
                     <div class="card-content white-text">
+                        <span class="card-title font-blue center"><strong>Darlildo Lima</strong></span>
+                        <hr>
+                        <div class="center">
+                            <br>
+                            <img class="responsive-img" id="img-speakers" src="https://scontent.ffor8-2.fna.fbcdn.net/v/t1.0-9/40606142_2324467007593990_655019161595936768_n.jpg?_nc_cat=103&_nc_ht=scontent.ffor8-2.fna&oh=e3e9d65d2485a2ddc6ea98f5c13a7d2d&oe=5D083B8C" alt="Darlildo Lima" title="Darlildo Lima">
+                        </div>
+
+                    </div>
+                    <div class="card-action center">
+                        <a class="blue-text text-darken-4" title="Facebook" target="_blank" href="https://www.facebook.com/darlildo"><i class="fa fa-facebook-square fa-3x" aria-hidden="true"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col s12 m6">
+                <div class="card">
+                    <div class="card-content white-text">
+                        <span class="card-title font-blue center"><strong>Johathan Souza</strong></span>
+                        <hr>
+                        <div class="center">
+                            <br>
+                            <img class="responsive-img" id="img-speakers" src="assets/img/speakers/jonathan.png" alt="Jonathan Souza" title="Jonathan Souza">
+                        </div>
+
+                    </div>
+                    <div class="card-action center">
+                        <a class="blue-text text-darken-4" title="Facebook" target="_blank" href="https://www.facebook.com/jonathansouzasi"><i class="fa fa-facebook-square fa-3x" aria-hidden="true"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col s12 m6">
+                <div class="card">
+                    <div class="card-content white-text">
                         <span class="card-title font-blue center"><strong>Yan Vancelis</strong></span>
                         <hr>
                         <div class="center">
